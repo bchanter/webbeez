@@ -1,1 +1,1 @@
-echo 'bonjour JB !';
+echo 'bonjour JB 2 !';
